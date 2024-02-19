@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function HomePage() {
   return (
@@ -34,10 +34,9 @@ function HomePage() {
             <div className="text-box">
                 <h1>Chart</h1>
                 <p>
-                    <canvas id="myChart" width="400" height="400"></canvas>
+                    {/* <canvas id="myChart" width="400" height="400"></canvas> */}
                 </p>
             </div>
-            <div id="pie-chart"></div>
 
         </div>
 

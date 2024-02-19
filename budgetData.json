@@ -1,0 +1,32 @@
+{
+    "myBudget": [
+        {
+            "title": "Power",
+            "budget": 20
+        },
+        {
+            "title": "Gas",
+            "budget": 15
+        },
+        {
+            "title": "Internet",
+            "budget": 15
+        },
+        {
+            "title": "Rent",
+            "budget": 315
+        },
+        {
+            "title": "Groceries",
+            "budget": 80
+        },
+        {
+            "title": "Toiletries",
+            "budget": 20
+        },
+        {
+            "title": "Other",
+            "budget": 50
+        }
+    ]
+}
